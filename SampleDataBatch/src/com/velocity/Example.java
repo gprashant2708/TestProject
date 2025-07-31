@@ -5,6 +5,8 @@ public class Example {
 		for(int i=0;i<5;i++) {
 			System.out.println(i);
 		}
+		System.out.println("prashant gaikwad1");
+		System.out.println("prashant gaikwad2");
 	}
 
 }
